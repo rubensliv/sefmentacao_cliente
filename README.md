@@ -1,1 +1,1 @@
-# sefmentacao_cliente
+# segmentacao_cliente
